@@ -2,9 +2,8 @@
 - 👀 I’m interested in artificial intelligence and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AIML projects
-- 📫 How to reach me mail 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 To reach me mail:-vishnugnair9341@gmail.com 
+
 
 <!---
 VISHNUGNAIR9341/VISHNUGNAIR9341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
